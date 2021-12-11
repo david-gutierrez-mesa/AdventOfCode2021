@@ -3,11 +3,11 @@ package adventofcode.day4;
 public class Day4 {
     public static void main(String[]args) {
 
-        int powerConsumption = Bingo.findWinner("data_day4.txt");
-        System.out.println("The result of part I is: " + powerConsumption);
+        int bingoWinner = Bingo.findWinner("data_day4.txt");
+        System.out.println("The result of part I is: " + bingoWinner);
 
-        int lifeSupportRating = Bingo.findLoser("data_day4.txt");
-        System.out.println("The result of part II is: " + lifeSupportRating);
+        int bingoLoser = Bingo.findLoser("data_day4.txt");
+        System.out.println("The result of part II is: " + bingoLoser);
 
     }
 }
