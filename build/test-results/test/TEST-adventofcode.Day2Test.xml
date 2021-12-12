@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="adventofcode.Day2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-10T18:39:28" hostname="MacBook-Pro-de-David.local" time="0.002">
-  <properties/>
-  <testcase name="Test for Day 2 part I" classname="adventofcode.Day2Test" time="0.001"/>
-  <testcase name="Test for Day 2 part II" classname="adventofcode.Day2Test" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
