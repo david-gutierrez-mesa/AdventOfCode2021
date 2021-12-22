@@ -1,7 +1,6 @@
 package adventofcode;
 
 import adventofcode.day09.SmokeBasin;
-import adventofcode.day8.SegmentSearch;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
